@@ -1,1 +1,1 @@
-I like batch scripts and have nothing to do with programming
+Living my life on port 23 - Telnet forever
